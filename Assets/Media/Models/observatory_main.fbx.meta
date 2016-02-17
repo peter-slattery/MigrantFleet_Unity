@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: 4f69ecf07b4d88b41b4bb2b9770de63e
+timeCreated: 1455667996
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: elevator
+    100002: elevator_base
+    100004: elevator_shaft
+    100006: elevator_top
+    100008: //RootNode
+    100010: observatory_roof
+    100012: observatory_roof 1
+    100014: observatory_roof_detail10
+    100016: observatory_roof_detail11
+    100018: observatory_roof_detail12
+    100020: observatory_roof_detail13
+    100022: observatory_roof_detail14
+    100024: observatory_roof_detail15
+    100026: observatory_roof_detail16
+    100028: observatory_roof_detail17
+    100030: observatory_roof_detail18
+    100032: observatory_roof_detail19
+    100034: observatory_roof_detail8
+    100036: observatory_roof_detail9
+    100038: observatory_support2
+    100040: observatory_support3
+    100042: observatory_support4
+    100044: observatory_support5
+    100046: observatory_support6
+    100048: observatory_support7
+    100050: observatory_walls
+    100052: supports
+    400000: elevator
+    400002: elevator_base
+    400004: elevator_shaft
+    400006: elevator_top
+    400008: //RootNode
+    400010: observatory_roof
+    400012: observatory_roof 1
+    400014: observatory_roof_detail10
+    400016: observatory_roof_detail11
+    400018: observatory_roof_detail12
+    400020: observatory_roof_detail13
+    400022: observatory_roof_detail14
+    400024: observatory_roof_detail15
+    400026: observatory_roof_detail16
+    400028: observatory_roof_detail17
+    400030: observatory_roof_detail18
+    400032: observatory_roof_detail19
+    400034: observatory_roof_detail8
+    400036: observatory_roof_detail9
+    400038: observatory_support2
+    400040: observatory_support3
+    400042: observatory_support4
+    400044: observatory_support5
+    400046: observatory_support6
+    400048: observatory_support7
+    400050: observatory_walls
+    400052: supports
+    2300000: elevator_base
+    2300002: elevator_shaft
+    2300004: elevator_top
+    2300006: observatory_roof 1
+    2300008: observatory_roof_detail10
+    2300010: observatory_roof_detail11
+    2300012: observatory_roof_detail12
+    2300014: observatory_roof_detail13
+    2300016: observatory_roof_detail14
+    2300018: observatory_roof_detail15
+    2300020: observatory_roof_detail16
+    2300022: observatory_roof_detail17
+    2300024: observatory_roof_detail18
+    2300026: observatory_roof_detail19
+    2300028: observatory_roof_detail8
+    2300030: observatory_roof_detail9
+    2300032: observatory_support2
+    2300034: observatory_support3
+    2300036: observatory_support4
+    2300038: observatory_support5
+    2300040: observatory_support6
+    2300042: observatory_support7
+    2300044: observatory_walls
+    3300000: elevator_base
+    3300002: elevator_shaft
+    3300004: elevator_top
+    3300006: observatory_roof 1
+    3300008: observatory_roof_detail10
+    3300010: observatory_roof_detail11
+    3300012: observatory_roof_detail12
+    3300014: observatory_roof_detail13
+    3300016: observatory_roof_detail14
+    3300018: observatory_roof_detail15
+    3300020: observatory_roof_detail16
+    3300022: observatory_roof_detail17
+    3300024: observatory_roof_detail18
+    3300026: observatory_roof_detail19
+    3300028: observatory_roof_detail8
+    3300030: observatory_roof_detail9
+    3300032: observatory_support2
+    3300034: observatory_support3
+    3300036: observatory_support4
+    3300038: observatory_support5
+    3300040: observatory_support6
+    3300042: observatory_support7
+    3300044: observatory_walls
+    4300000: observatory_support2
+    4300002: observatory_support3
+    4300004: observatory_support4
+    4300006: observatory_support5
+    4300008: observatory_support6
+    4300010: observatory_support7
+    4300012: elevator_shaft
+    4300014: elevator_top
+    4300016: elevator_base
+    4300018: observatory_roof_detail8
+    4300020: observatory_roof_detail9
+    4300022: observatory_roof
+    4300024: observatory_roof_detail10
+    4300026: observatory_roof_detail11
+    4300028: observatory_roof_detail12
+    4300030: observatory_roof_detail13
+    4300032: observatory_roof_detail14
+    4300034: observatory_roof_detail15
+    4300036: observatory_roof_detail16
+    4300038: observatory_roof_detail17
+    4300040: observatory_roof_detail18
+    4300042: observatory_roof_detail19
+    4300044: observatory_walls
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
